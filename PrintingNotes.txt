@@ -51,3 +51,54 @@ CHECK TO SEE IF USER IS LOGGED IN WITH PU CREDENTIALS AND NOT ANOTHER INSTITUTIO
 HAVE USER TRY CONNECTING TO THE VPN AND CONNECTING TO THE PRINTER
 
 
+
+DCU printing Request : https://princeton.service-now.com/service?id=sc_cat_item&table=sc_cat_item&sys_id=1687e70ddbabd994e8c283aa139619a7 
+Students use PawPrint : https://kb.princeton.edu/9745  
+
+    Grad students 
+
+    Undergrad Students 
+
+Faculty/Staff use TigerPrint :  
+
+https://kb.princeton.edu/KB0013757 for Windows 
+
+https://kb.princeton.edu/KB0013752 for Mac 
+
+Non-domain computers: https://princeton.service-now.com/service?id=kb_article&sys_id=KB0010113 
+
+ 
+
+Physics printing: https://phy.princeton.edu/it/printing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Clear Printer Queue Form: https://princeton.service-now.com/service?id=sc_cat_item&table=sc_cat_item&sys_id=897ef3974f825e00f56c0ad14210c788 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Connecting printer: 
+
+    Search add printer 
+
+    Select add device 
+
+    Scroll down and select add manually 
+
+ 
+
+Need to be connected to eduroam to connect to printer 

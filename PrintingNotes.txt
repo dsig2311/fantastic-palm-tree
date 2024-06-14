@@ -1,1 +1,53 @@
-this is test
+Adding printer to Linux 
+
+Go to printers in settings
+Additional printer settings
+Select add
+Expand Network Printer
+Select LPD/LPR Host or Printer
+Add Host : iss229w.princeton.edu
+Add Queue : phy_jadwin_hall_a17c_pcut
+Select Generic for drivers
+Select PostScript
+Select Generic PostScript Printer [en]
+Select Duplexer 
+Rename Printer if wanted
+Apply
+
+
+Applying Canon printer to Linux
+Go to printer within settings
+Additional Printer settings
+Select add
+Expand Network Printer
+Select LPD/LPR Host or printer
+Add Host : printcanon_princeton.edu
+Add Queue : CR338_PS3 (Case Sensitive)
+Select Generic for drivers
+Select PostScript
+Select Generic PostScript Printer [en]
+Select Duplexer 
+Rename Printer if wanted
+Apply
+
+Applying printer to Linux : Non-domain computer
+Go to localhost:631
+Select Administration
+Add printer
+Enter username and passwod to main admin account on computer (Sudo User)
+Under Other Network Printer
+Select LPD/LPR Host or Printer 
+Enter hostname and queue of printer
+- Canon : lpd://printcanon.princeton.edu/CR338_PS3
+- Dell : lpd://iss229w.princeton.edu/phy_jadwin_hall_a17c_pcut
+Select continue and fill the boxes shown how you would like and enable sharing and click continue
+Select Make of printer
+- Canon : Generic : Generic PostSCript Printer [en]
+- Dell : Dell : Select type of printer if possible OR do generic : Generic Postscript Printer [en]
+
+If COMPUTER IS NON-DOMAIN:
+
+CHECK TO SEE IF USER IS LOGGED IN WITH PU CREDENTIALS AND NOT ANOTHER INSTITUTION
+HAVE USER TRY CONNECTING TO THE VPN AND CONNECTING TO THE PRINTER
+
+

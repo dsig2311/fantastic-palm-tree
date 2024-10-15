@@ -1,3 +1,4 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Exhibit01,http://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
 Exhibit02,https://cdn.prod.website-files.com/663b14d8b3ed91cb605fc95e/6666b55ca655017092503c3f_Honey%20badger.jpeg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
 Exhibit03,https://cdn.thezebra.com/zfront/media/production/images/facebook-racoon-in-a-garbage-can..width-1500.format-jpeg.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes

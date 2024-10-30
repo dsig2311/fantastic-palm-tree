@@ -1,2 +1,8 @@
-https://github.com/dsig2311/fantastic-palm-tree/blob/main/Test/Cat_August_2010-4.png
-https://github.com/dsig2311/fantastic-palm-tree/blob/main/Test/dog.png
+https://storage.googleapis.com/confboard/pic8.jpeg
+https://storage.googleapis.com/confboard/pic7.jpeg
+https://storage.googleapis.com/confboard/pic6.jpeg
+https://storage.googleapis.com/confboard/pic5.jpeg
+https://storage.googleapis.com/confboard/pic4.jpeg
+https://storage.googleapis.com/confboard/pic3.jpeg
+https://storage.googleapis.com/confboard/pic2.jpeg
+https://storage.googleapis.com/confboard/pic1.jpeg
